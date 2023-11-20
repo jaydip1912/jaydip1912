@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaydip1912
+- 👋 Hi, I’m jaydip
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning new
 - 💞️ I’m looking to collaborate on ...

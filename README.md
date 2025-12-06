@@ -14,7 +14,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=jaydip1912&label=Profile%20Views&color=00ff00&style=flat" />
 </div>
 
